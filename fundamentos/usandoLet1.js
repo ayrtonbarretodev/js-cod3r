@@ -1,7 +1,7 @@
 /* 
 
-let - escopo global, escopo de função e escopo de bloco
-var - escopo global e escopo de função
+let - podem ser globais, escopo de função ou escopo de bloco
+var - podem ser globais ou escopo de função
 
 */
 
